@@ -1,2 +1,3 @@
 # hello-world
-Learning Git, just another test repo
+Now we are learning to create new branch
+It is great tool
